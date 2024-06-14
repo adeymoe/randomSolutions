@@ -1,4 +1,4 @@
-def take(arr,n):
+"""def take(arr,n):
     return arr[:n]
 
 def add(a, b):
@@ -25,4 +25,12 @@ def remove_char(s):
     s = list(s)
     s.pop()
     s.pop(0)
-    return ''.join(s)
+    return ''.join(s)"""
+
+class Student:
+    def __init__(self, name, house, magic) -> None:
+
+        pass
+    def __str__(self) -> str:
+        pass
+    def charm()
