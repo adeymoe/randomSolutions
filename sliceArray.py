@@ -27,10 +27,10 @@ def remove_char(s):
     s.pop(0)
     return ''.join(s)"""
 
-class Student:
-    def __init__(self, name, house, magic) -> None:
+# class Student:
+#     def __init__(self, name, house, magic) -> None:
 
-        pass
-    def __str__(self) -> str:
-        pass
-    def charm()
+#         pass
+#     def __str__(self) -> str:
+#         pass
+#     def charm()
